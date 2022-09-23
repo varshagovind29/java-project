@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+
+.h1{
+padding:0%; margin: 0px; text-decoration: overline;
+}
+
+.a1{
+position:absolute; margin: 0%; width:50%; padding-top:0%;
+}
+.a2{
+position:absolute; margin-top:0%; padding-top:0%; width: 60%;
+}
+.a3{
+position:absolute; width: 50%; padding: 2%;
+}
+.a4{
+position: absolute; width:40%; padding-top: 2%;
+}
+.a5{
+position:absolute; margin-top:0%; padding-top:2%; width: 92%;
+}
+.a6{
+position:absolute; width: 90%; text-align: right; padding-top: 2%; 
+}
+.a7{
+position:absolute; margin: 0%; width:50%; padding-top:2%; text-align: left;
+}
+.a8{
+position:absolute; margin-top:0%; padding-top:2%; width: 92%;
+}
+.a9{
+position:absolute; width: 90%; text-align: right; padding-top: 2%;
+}
+.a10{
+position:absolute; margin: 0%; width:50%; padding-top:2%; text-align: left;
+}
+.b1{
+position:absolute; margin-top:0%; padding-top:2%; width: 50%;
+}
+.b2{
+position:absolute; width: 50%; text-align: right; padding-top: 2%;
+}
+.b3{
+position:absolute;margin: 0%; width:50%; padding-top:2%; text-align: left;
+}
